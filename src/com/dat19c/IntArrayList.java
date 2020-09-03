@@ -33,9 +33,9 @@ public class IntArrayList {
     }
 
     public int size(){
-        int x = ia.length-1;
+        str = ia.length-1;
         //skal erstattes med kode, der bruger str
-        return x;
+        return str;
     }
 
 
